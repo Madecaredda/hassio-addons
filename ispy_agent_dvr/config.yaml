@@ -6,6 +6,7 @@ description: "iSpy is the world’s most popular open source video surveillance 
 arch:
   - amd64
   - aarch64
+  - armv7
 map:
   - share:rw
 url: "https://www.ispyconnect.com/"
